@@ -12,7 +12,7 @@ header{
 .name{
     
     color: white;
-    margin-left: 5vw;
+    margin-left: 4vw;
 }
 .name1{
     color: rgb(245, 74, 74);
@@ -64,7 +64,7 @@ li{
     max-width: 50vh;
     max-height: 60vh;
     object-fit: contain;
-    border: 0.8vh solid  rgb(245, 74, 74);
+    border: 0.5vw solid  rgb(245, 74, 74);
 }
 button{
     background-color: rgb(245, 74, 74);

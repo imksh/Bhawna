@@ -13,6 +13,7 @@ header{
     
     color: white;
     margin-left: 4vw;
+    font-size: 2vh;
 }
 .name1{
     color: rgb(245, 74, 74);
@@ -28,9 +29,9 @@ li{
     color: white;
     list-style: none;
     display: inline-block;
-    font-size: large;
+    font-size: 2vh;
     font-weight: bold;
-    margin-left: 2vw;
+    margin-left: 1.5vw;
     
 }
 #home{
